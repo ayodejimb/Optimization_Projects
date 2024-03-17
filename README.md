@@ -8,11 +8,11 @@ This repository contains code that I have written in MATLAB for obtaining optima
 (ii) One Phase Simplex Method
 (iii) Two Phase Simplex Method
 
-For a non-linear optimization problem, I implemented the following:
+## For a non-linear optimization problem, I implemented the following:
 
 (i) Golden Search Method (for a single dimensional search)
 (ii) Secant's Method (for a single dimensional search)
 (ii) Newton's Method (for a single dimensional search)
 (iv) Steepest descent Method (for multi-dimensional search but with Newton's method for line search)
 
-Each respective folder contains the implementation for each category. 
+## Each respective folder contains the implementation for each category. 
