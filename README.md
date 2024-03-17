@@ -2,7 +2,7 @@
 
 This repository contains code that I have written in MATLAB for obtaining optimal solutions on various kinds of optimization problems. 
 
-For a linear optimization problem, I implemented the following:
+## For a linear optimization problem, I implemented the following:
 
 (i) Exhaustive Basic Feasible Solution
 (ii) One Phase Simplex Method
